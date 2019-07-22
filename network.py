@@ -97,7 +97,7 @@ def simplenet():
 
 if __name__ == '__main__':
     setLogLevel( 'info' )
-    ee323net()
+    simplenet()
 
 
 
